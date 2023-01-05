@@ -168,3 +168,94 @@ nav ul li a:hover {
     color: #FD6E0A;
     transition: .7s;
 }
+
+main {
+    max-width: 1140px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.about {
+    margin-top: 130px;
+    background-color: #FFF8F3;
+    padding: 130px 150px;
+    border-radius: 10px;
+    border-radius: 10px;
+}
+
+.section-title {
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.section-decription {
+    padding: 30px 60px;
+    color: #757575;
+}
+
+.ablut-info-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.abou-info {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.info-title {
+    color: #757575;
+}
+
+.info-description {
+    color: #474747;
+    font-weight: 700;
+    margin-top: 3px;
+}
+
+/* whit i do section */
+.what-i-do {
+    text-align: center;
+    margin-top: 90px;
+}
+
+.w-title {
+    font-size: 35px;
+
+    color: #181818;
+}
+
+.whit-i-do-detils {
+    padding: 50px 160px;
+    color: #757575;
+    font-size: 18px;
+}
+
+.text-img-section {
+    display: flex;
+}
+
+.head-image {
+    width: 267px;
+    height: 377px;
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.head-image img {
+    padding: 8% 0;
+}
+
+.text-img-title {
+    font-Weight: 700;
+    Size: 20px;
+    padding: 5px 30px;
+}
+
+.text-img-decription {
+    font-weight: 400;
+    font-size: 16px;
+    padding: 20px 30px;
+}
