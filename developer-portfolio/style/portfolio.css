@@ -62,30 +62,36 @@ nav ul li a {
     font-weight: 600;
     font-size: 18px;
 }
+
 .btn-primary:hover {
     background-color: #FFF8F3;
     border: 1px solid #FD6E0A;
     transition: .7s;
-    
+
 }
+
 .btn-primary a:hover {
-color: #FD6E0A;
-transition: .7s;
+    color: #FD6E0A;
+    transition: .7s;
 }
+
 .btn-primary a {
     color: #ffffff;
 }
-nav ul li a:hover{
+
+nav ul li a:hover {
     color: #FD6E0A;
-    transition: .07s;
+    transition: .7s;
 }
+
 .nav-title a:hover {
     color: #FD6E0A;
-    transition: 1s;
+    transition: .7s;
 }
-.nav-title a:hover .text-primary{
+
+.nav-title a:hover .text-primary {
     color: #181818;
-    transition: 1s;
+    transition: .7s;
 }
 
 
@@ -115,4 +121,50 @@ nav ul li a:hover{
 
     color: #757575;
 
+}
+
+.btn-primary-download i {
+    margin-right: 5px;
+}
+
+.btn-primary-contact {
+    margin-top: 30px;
+    padding: 15px 21px;
+    background-color: #FFF8F3;
+    border-radius: 5px;
+    border: 1px solid #FD6E0A;
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 18px;
+    color: #FD6E0A;
+}
+
+.btn-primary-contact:hover {
+    background-color: #FD6E0A;
+    color: #FFF8F3;
+    transition: .7s;
+}
+
+
+
+.btn-primary-contact i {
+    margin-right: 5px;
+}
+
+.btn-primary-download {
+    margin-top: 30px;
+    padding: 15px 21px;
+    background-color: #FD6E0A;
+    border-radius: 5px;
+    border: 1px solid #FD6E0A;
+    font-size: 18px;
+    cursor: pointer;
+    font-weight: 700;
+    color: #FFF8F3;
+}
+
+.btn-primary-download:hover {
+    background-color: #FFF8F3;
+    color: #FD6E0A;
+    transition: .7s;
 }
